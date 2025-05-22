@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @noorulfazar
-- 👀 I’m interested in:  Full-Stack Developer | Technologist | Aspiring Data Scientist & AI Engineer | Passionate about Psychology & Dietetics | B.E. (CSE) | Knowledge Seeker - Continuous Learner
-- 🌱 I’m currently learning: MERN & MEAN stack
-- 💞️ I’m looking to collaborate: I am an Experienced software developer with 6+ years of expertise in developing and testing solutions in the Telecom, HRMS, and Healthcare domains. Proficient in C, C++, Pro*C, Oracle PL/SQL, Java, Shell Scripting, MERN stack, DSML, and other technologies. Adept at collaborating with cross-functional teams and managing projects in agile environments. I am looking to contribute technical expertise in a dynamic organization. To be a part of a growing organization that allows me to develop new skill sets while utilizing my present knowledge.
+- 👀 I’m interested in:  Technologist | Java Full-Stack Developer | Aspiring AI Developer | Prompt Engineering Enthusiast | Passionate about Coding | B.E. (CSE) | Continuous Learner & Knowledge Seeker
+- 🌱 I’m currently learning: Java Full-Stack
+- 💞️ I’m looking to collaborate: Experienced software developer with 5+ years of expertise in designing, developing, and testing solutions across the telecom, HRMS, and healthcare domains. Proficient in both frontend and backend development, with strong skills in C, C++, Pro*C, Oracle PL/SQL, Java, Shell Scripting, HTML, CSS, JavaScript, and more. Skilled in collaborating with cross-functional teams and managing projects within agile environments. I seek a software developer role to drive impactful solutions and support company growth. I am particularly interested in a Software Developer role.
 - 📫 How to reach me: noorulfazar@gmail.com
 
 
